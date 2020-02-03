@@ -1,2 +1,2 @@
 # Requirements for firstApp using Flask
-flask
+flask==1.1.1
